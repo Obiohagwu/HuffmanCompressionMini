@@ -1,0 +1,12 @@
+teE genes.txt genes.huf
+D genes.huf genesRecover.txt
+E abcefString.txt abcefString.huf
+D abcefString.huf abcefStringRecover.txt
+E greeneggsandham.txt greeneggsandham.huf
+D greeneggsandham.huf greeneggsandhamRecover.txt
+E midsummer.txt midsummer.huf
+D midsummer.huf midsummerRecover.txt
+E don.jpg don.huf
+D don.huf donRecover.jpg
+E luciaPeaceAge5.pgm luciaPeaceAge5.huf
+D luciaPeaceAge5.huf luciaPeaceAge5Recovered.pgm
